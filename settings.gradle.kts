@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "AnywhereAndroid"
+rootProject.name = "AdaptiveLayout"
 include(":app")
  
